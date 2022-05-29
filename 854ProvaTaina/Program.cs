@@ -8,6 +8,7 @@ namespace ProjetoConsole
     {
         static void Main()
         {
+            Console.Clear();
             string barco = "";
             string posicao = "";
             string jogador1 = "";
